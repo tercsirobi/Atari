@@ -3,6 +3,8 @@
 Please do not modify artwork.
 It is not available for commercial use.
 
+Some files are too big to be hoisted here, they're on my personal wepbage.
+
 Please get in touch to discuss if you have a project in mind.
 
 Atari logo and all Atari specific information is the copyright of Atari Corporation and successors.
